@@ -1,0 +1,15 @@
+C:\Users\mikel\source\repos\Codelearn\bin\Debug\net6.0\Codelearn.exe
+C:\Users\mikel\source\repos\Codelearn\bin\Debug\net6.0\Codelearn.deps.json
+C:\Users\mikel\source\repos\Codelearn\bin\Debug\net6.0\Codelearn.runtimeconfig.json
+C:\Users\mikel\source\repos\Codelearn\bin\Debug\net6.0\Codelearn.dll
+C:\Users\mikel\source\repos\Codelearn\bin\Debug\net6.0\Codelearn.pdb
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.csproj.AssemblyReference.cache
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.AssemblyInfoInputs.cache
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.AssemblyInfo.cs
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.dll
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\refint\Codelearn.dll
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.pdb
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\Codelearn.genruntimeconfig.cache
+C:\Users\mikel\source\repos\Codelearn\obj\Debug\net6.0\ref\Codelearn.dll
