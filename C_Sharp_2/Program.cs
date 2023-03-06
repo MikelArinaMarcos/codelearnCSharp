@@ -32,5 +32,4 @@ namespace Codelearn
             Console.ReadLine();
         }
     }
-
 }
