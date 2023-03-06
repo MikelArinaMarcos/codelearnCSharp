@@ -1,0 +1,15 @@
+C:\Users\mikel\source\repos\C_Sharp_2\bin\Debug\net6.0\C_Sharp_2.exe
+C:\Users\mikel\source\repos\C_Sharp_2\bin\Debug\net6.0\C_Sharp_2.deps.json
+C:\Users\mikel\source\repos\C_Sharp_2\bin\Debug\net6.0\C_Sharp_2.runtimeconfig.json
+C:\Users\mikel\source\repos\C_Sharp_2\bin\Debug\net6.0\C_Sharp_2.dll
+C:\Users\mikel\source\repos\C_Sharp_2\bin\Debug\net6.0\C_Sharp_2.pdb
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.csproj.AssemblyReference.cache
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.AssemblyInfoInputs.cache
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.AssemblyInfo.cs
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.dll
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\refint\C_Sharp_2.dll
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.pdb
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\C_Sharp_2.genruntimeconfig.cache
+C:\Users\mikel\source\repos\C_Sharp_2\obj\Debug\net6.0\ref\C_Sharp_2.dll
