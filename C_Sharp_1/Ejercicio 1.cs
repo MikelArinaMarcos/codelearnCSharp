@@ -13,7 +13,7 @@ namespace Codelearn
             num = int.Parse(line);
             dec = num / 10;
             uni = num % 10;
-            aux = (uni * 10) + dec;
+            aux = (uni * 10) + dec; 
 
             Console.WriteLine("The reversed number is: " + aux);
             Console.WriteLine("Press any key.");
